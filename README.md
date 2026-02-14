@@ -1,7 +1,7 @@
 # 📊 Customer Churn Risk Intelligence System
 
-**Live Demo:** *(Add your deployed link here once deployed)*  
-👉 https://your-deployed-app.link
+**Live Demo:**  
+👉 https://customer-churn-risk-intelligence.streamlit.app/
 
 ---
 
