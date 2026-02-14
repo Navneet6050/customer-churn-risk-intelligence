@@ -106,13 +106,13 @@ Connect : https://www.linkedin.com/in/contactnavneet04/
 ## 📊 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### 🔹 Risk Segment Distribution
 ![Risk Segment](screenshots/RiskSegmentDistribution.png)
 
 ### 🔹 Risk Score Histogram & Global Churn Drivers
-![Risk Score](screenshots/RiskScoreHistogram&GlobalChurnDrivers.png)
+![Risk Score](screenshots/RiskScoreHistogram_GlobalChurnDrivers.png)
 
 ### 🔹 Customers at Risk
 ![Customers at Risk](screenshots/CustomersatRisk.png)
