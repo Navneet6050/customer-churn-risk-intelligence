@@ -44,6 +44,9 @@ The system:
 ---
 
 ## 🧱 Repo Structure
+
+```
+
 ├── app/ # Streamlit dashboard
 ├── data/
 │ ├── raw/ # Original dataset
@@ -55,6 +58,7 @@ The system:
 │ └── evaluation_metrics.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Getting Started
 
